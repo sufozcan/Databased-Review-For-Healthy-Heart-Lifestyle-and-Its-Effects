@@ -38,3 +38,5 @@ Physical Activity: High levels of physical activity clearly correlate with lower
 
 ![BMI vs Glucose Level by Heart Disease](https://github.com/user-attachments/assets/bf2ea993-6ef5-47dd-94e3-8505670d596d)
 
+![Relationship Between BMI and Physical Activity](<img width="450" height="355" alt="image" src="https://github.com/user-attachments/assets/639a0952-01f6-4a12-996a-15d44df48909" />)
+
