@@ -41,9 +41,11 @@ Physical Activity: High levels of physical activity clearly correlate with lower
 ## BMI & Glucose Level
 
 ![BMI vs Glucose Level Correlation](https://github.com/user-attachments/assets/bf2ea993-6ef5-47dd-94e3-8505670d596d)
-[cite_start]*Graph showing the positive association between BMI and glucose level with heart disease status[cite: 178].*
+
+*Graph showing the positive association between BMI and glucose level with heart disease status.
 
 ## Physical Activity & BMI Distribution
 
 ![Relationship Between BMI and Physical Activity](https://github.com/user-attachments/assets/639a0952-01f6-4a12-996a-15d44df48909)
+
 *Violin plot illustrating the distribution of BMI levels across different physical activity groups. Individuals with high physical activity show a concentration toward healthier (lower) BMI values.*
