@@ -36,5 +36,5 @@ Gender & Family History: While heart disease is common in males, family history 
 
 Physical Activity: High levels of physical activity clearly correlate with lower, more ideal BMI values (median BMI of ~25).
 
-![BMI vs Glucose Level by Heart Disease](<img width="462" height="398" alt="image" src="https://github.com/user-attachments/assets/bf2ea993-6ef5-47dd-94e3-8505670d596d" />)
+![BMI vs Glucose Level by Heart Disease](https://github.com/user-attachments/assets/bf2ea993-6ef5-47dd-94e3-8505670d596d)
 
